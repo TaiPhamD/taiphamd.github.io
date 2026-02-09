@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/autofs/index.html",
       "/posts/pytorch_erfinv/index.html"
     ]
   }
